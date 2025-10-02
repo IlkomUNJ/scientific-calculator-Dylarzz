@@ -6,3 +6,7 @@ For qualifying for a full grade you just need:
 - Fully working basic calculator: +, -, *, /
 - Some extra of a   scientific calculator: 1x, x!, x^y, sqrt(x), sin(x), cos(x), tan(x), inv(sin(x)), inv(cos(x)), inv(tan(x)), log(x), ln(x)
 - Acceptable enough UI placement
+
+# Identity
+- Darrell Rafif Alfarabi - 1313623032
+- Computer Science Class Roster A
